@@ -1,0 +1,2 @@
+5. Descreva, com as suas palavras, a diferença conceitual entre “tipo primitivo” e “wrapper class”.
+R: As classes wrapper são objetos e são mantidas no heap enquanto que as variáveis locais preservadas na pilha. As variáveis primitivas são mais rápidas e consomem menos memória, os objetos permitem operações mais complexas como conversão de tipo, “key” em HashMap etc.
